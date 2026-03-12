@@ -1,6 +1,11 @@
 # 💸 ỨNG DỤNG QUẢN LÝ VÀ CHIA TIỀN NHÓM
 *Đồ án môn Kỹ thuật lập trình - Khoa Hệ thống Thông tin*
-
+## 👨‍💻 Thành viên phát triển
+1. Nguyễn Phạm Hồng Thương - K254161804
+2. Nguyễn Ngọc Trúc Giang - K254161759
+3. Nguyễn Nam Phương - K254161790
+4. Bùi Lê Khánh Như - K254161786
+5. Võ Thị Yến Nhi - K254161784
 ## 📖 Giới thiệu
 Đây là ứng dụng Desktop được phát triển bằng Python và PyQt6 nhằm mục đích tự động hóa quá trình quản lý chi tiêu nhóm, giải quyết bài toán "ai nợ ai bao nhiêu" một cách nhanh chóng, minh bạch sau các chuyến du lịch, ăn uống.
 
