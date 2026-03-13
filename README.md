@@ -17,7 +17,7 @@
 - **Giao diện hiện đại:** Được xây dựng theo kiến trúc Single-Page Application mượt mà bằng QStackedWidget.
 
 ## 🛠 Nền tảng và Công nghệ sử dụng
-- **Ngôn ngữ:** Python 3.1x
+- **Ngôn ngữ:** Python 3.17
 - **Giao diện (GUI):** PyQt6 & Qt Designer
 - **Cấu trúc lưu trữ:** Object-Oriented Programming (In-Memory RAM)
 - **Thư viện tích hợp:** `datetime`, `random`, `PyQt6.QtPrintSupport`
